@@ -19,6 +19,12 @@
           "-y",
           "duckduckgo-mcp-server"
         ]
+    },
+    "yfinance": {
+      "command": "npx",
+      "args": [
+        "@onori/yfinance-mcp-server"
+      ]
     }
     }
 }
