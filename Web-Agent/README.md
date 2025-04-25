@@ -55,7 +55,7 @@ SERPER_API_KEY=your_serper_api_key
 Start the agent from the command line:
 
 ```bash
-python main.py
+python web_agent.py
 ```
 
 You’ll be prompted for a query:
